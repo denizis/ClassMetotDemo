@@ -1,0 +1,7 @@
+C:\Users\deniz\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\Users\deniz\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\deniz\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\deniz\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\deniz\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
